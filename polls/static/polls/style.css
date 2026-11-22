@@ -1,0 +1,7 @@
+li a {
+    color: green;
+}
+body {
+    background: linear-gradient(135deg, #e0f2fe, #ede9fe);
+    min-height: 100vh;
+}
