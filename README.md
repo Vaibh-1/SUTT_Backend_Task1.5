@@ -9,11 +9,11 @@ I followed the official Django tutorial ("Writing your first Django app") from P
 You need Python installed.
 
 ```
-git clone <https://github.com/Vaibh-1/SUTT_Backend_Task1.5>
-cd <SUTT_Backend_Task1.5>
+git clone https://github.com/Vaibh-1/SUTT_Backend_Task1.5
+cd SUTT_Backend_Task1.5
 pip install django
 python manage.py migrate
-python manage.py runserverd
+python manage.py runserver
 ```
 
 You also need the Debug Toolbar which can be installed by this:
